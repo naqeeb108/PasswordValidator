@@ -1,0 +1,16 @@
+PODS:
+  - PasswordValidator (0.1.0)
+
+DEPENDENCIES:
+  - PasswordValidator (from `../`)
+
+EXTERNAL SOURCES:
+  PasswordValidator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PasswordValidator: 57f3bfd30c02fe2475f1553823b659b358d665f4
+
+PODFILE CHECKSUM: 930ca02e2b6c7ac9364637fb25c1a082c0357243
+
+COCOAPODS: 1.10.1
